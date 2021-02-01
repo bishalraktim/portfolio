@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Bishal Regmi",
+    "occupation": "",
+    "description": "",
+    "image": "picture.jpeg",
+    "bio": "My name is Bishal, I'm a self-taught web developer.",
+    "contactmessage": "Please get in touch with me to receive further details.",
+    "email": "raktimbishal@gmail.com",
+    "phone": "+61451045146",
+    "address": {
+      "street": "Australia",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "zip": "3041"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bishal-regmi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/accounts/login/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bishalraktim",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Charles Sturt University - Melbourne",
+        "degree": "Master's Degree, Information Technolog",
+        "graduated": "July 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self-taught",
+        "title": "Self-taught Web Developer",
+        "years": "June 2020 - Present",
+        "description": "Result-oriented and highly motivated web developer seeking to launch a career building web applications and services."
+      },
+      {
+        "company": "freeCodeCamp",
+        "title": "freeCodeCamp Certifications",
+        "years": "August 2020 - Present",
+        "description": "Profile: https://www.freecodecamp.org/raktim"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "React",
+        "level": "65%"
+      },
+      {
+        "name": "Node.js",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "57%"
+      },
+      {
+        "name": "WordPress",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "YelpCamp with NodeJS",
+        "category": "YelpCamp Project built with NodeJS",
+        "image": "YelpCamp.png",
+        "url": "https://immense-scrubland-26496.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "AmazonClone.png",
+        "url": "https://challenge-c931a.web.app/"
+      },
+      {
+        "title": "iMessage Clone",
+        "category": "iMessage Clone built with ReactJS",
+        "image": "iMessageClone.png",
+        "url": "https://imessage-clone-dc422.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bishal, an intelligent, hardworking and a dedicated person, has been my student at Charles Sturt University. By honing his academic concepts, not only did he illustrate his competency and problem-solving skills, but he also demonstrated himself as an outstanding scholar. I believe that Bishal’s strengths and skills will prove an asset to any IT companies and I strongly recommend him without reservation.",
+        "user": "Dr Beulah Moses"
+      }
+    ]
+  }
+}
